@@ -1,5 +1,5 @@
 /* 
-   query to display a list of employees job title 
+   write a query to display a list of employees job title 
 */
 
 
